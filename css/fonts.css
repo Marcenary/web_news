@@ -1,0 +1,15 @@
+@font-face {
+	font-family: 'IBM Plex Sans';
+	src: url('https://fonts.google.com/specimen/IBM+Plex+Sans');
+	src: url('https://fonts.google.com/specimen/IBM+Plex+Sans') format('embedded-opentype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Barlow';
+	src: url('https://fonts.google.com/specimen/Barlow?query=Barlow');
+	src: url('https://fonts.google.com/specimen/Barlow?query=Barlow') format('embedded-opentype');
+	font-weight: normal;
+	font-style: normal;
+}
